@@ -1,0 +1,20 @@
+ /*
+  *  Milestone 1
+  *  ------------------
+  *
+  *  Develop an to-do list taker app
+  *  Objectives: 
+  *		- App need to launch
+  *		- Present user with a screen to Create/Update/Recall a specific List by Name
+  *		- Inside a perticular List, options to create/modify/delete a specific note.
+  *		- Beautification and UI presentations left to the developers's imagination. No formatting/rules for this MileStone
+  *		
+  *  Goal :
+  *		- Learn Android programming
+  *		- Practice good style of documentation, by documenting the steps one followed.
+  *		- Understand the difficulties involved in creating an App.
+  *
+  *  Deadline:
+  *		- Soft Deadline - 3rd MAY 2014
+  *
+  */

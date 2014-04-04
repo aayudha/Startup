@@ -1,0 +1,88 @@
+/*
+ * Following points were discussed
+ * in the telephonic conference held on 12th Apr 2014 at
+ * 2200 hrs.
+ */
+
+ 1.  	Since the "Moving Ball" Game has already been implemented,
+	the Idea of pursuing it is dropped, until such a time, if we
+	can come up with a sell-able twist.
+
+ 2. 	Shivu has come up with another Game idea, which is based on
+ 	the "2048" game. He has the complete idea of the game details.
+	We need to discuss it with him in detail, once every has already
+	played the 2048 game and is on the same page. It doesn't need very long
+	duration  of coding to be completed as per the discussions.
+	But yet to confirm the status on that.
+
+ 3. 	We will be begining with the simplified version of the Scheduler
+ 	app. As going on forward, we shall break down the complete app into
+	eatable chucks and build our skill sets along the way.
+
+ 4. 	The first level or the Milestone 1, shall be where in we develop the
+ 	"To-Do List taker" individually(not strictly). 
+
+	"To-do list taker" 
+	Details:
+		- After launching , the app shall provide the user with 
+		  a screen where in he\she can add a new LIST.
+		- LIST contails a field where he/she cna further add
+		  new to-do items. Facility to edit/modify/delete the 
+		  already existing items, should be present.
+		- The initial page can list all the LISTs present, so 
+		  so that the user can recall the ones which he/she likes.		
+	Deadline:
+		- 3 weeks from the meeting date.
+		- Soft deadline --> 3rd MAY 2014
+	
+ 5. 	The skill set needed to do the Milestone 1, should be studied along 
+ 	the way. Pranav will be posting the videos links, which contain
+	- Learning Java first hand -> programming methodology course by stanford.
+	- Learning android programming  methodology via a series of 200 videos available on the youtube.
+
+	Besides the above, anyone aware of any other links can post it in the 
+	googlegroups.
+
+ 6. 	Participants, who are willing to code, can learn and post/push there
+ 	code on to the github aayudha->Startup, by creating a folder of their
+	name under the Milestone_1 stream.
+	This shall help, others understand as to where if some one is stuck,
+	 also helps the person to refer or get the code reviewed by peers,
+	 if interested.
+
+ 7. 	Participants who want to contribute other than coding/programming, have
+ 	lot in store too.
+	Prime tasks to be done.
+		- Look up on the net, as to any other app/idea is already
+		  present on the same lines as we are attempting, keeping
+		  both the smaller and the larger picture of the complete 
+		  app.
+		- Come up with a differentiated list of app, with their feature
+		  /pros/cons etc..
+		- Also, need to look at any/all apps in general, and come up
+		  with the UI DESIGN for our app/Milestones.
+		- The UI has to be designed, by answering queries like
+			- How wud the user want the UI to look.
+			- Wot are the elements (button, text fields), wud like
+			  as we perceive or listing alternatives looking/mining
+			  other good apps for their UI design.
+			- [Kindly add in more points along the way]
+
+ 8. 	Hence  forth, a weekly status stream will be present in GitHub, under startup,
+ 	where in all can update on Every Saturday night, as to wot is there
+	status under their name in the sheet present
+	Path---->  startup -> weekly_status_report --> concerned weeks sheet.
+
+	Please don't hesistate to fill, "Had a busy week, so cudn't progress",
+	if we didn't have time.
+	The main purpose of the weekly update, is to know what all 
+	concepts is the TEAM as a whole knowing till dat point.
+
+ 9. 	The manangerial steps/orientations/decisions on how the team can go
+ 	about, the methodologies and strategies needed to stide forward 
+	efficiently will be taken up, once everyone has completed the Milestone1
+	as then we all be in a position to judge our capabilites
+	and  also come up with the list of difficulties we have faced and 
+	improvement or suggestions or methodologies we'd like
+	everyone to follow to make certain task efficiently.
+	[more light has to be thorwn]
