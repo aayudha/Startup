@@ -1,0 +1,8 @@
+Hi
+I'm putting this file to test the new integration of Startup repo in github with the www.gerrithub.io
+
+With any luck we shud get pull requests or review request when i try to push this change n do somemore magics.
+
+Wish me luck
+
+kam-saa-ham-ni-da-yo :) ;) :P
